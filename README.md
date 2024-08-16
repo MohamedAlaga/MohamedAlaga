@@ -1,3 +1,4 @@
+![MasterHead](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Mohamed Alaga</h1>
 <h3 align="center">A Full-Stack Developer | Focused on Mobile Apps, Web Development, and Automation</h3>
 
