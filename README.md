@@ -28,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedalaga&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="mohamedalaga" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedalaga&show_icons=true&locale=en&theme=github_dark" alt="mohamedalaga" /></p>
+
+<a href="http://www.github.com/MohamedAlaga"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAlaga&stroke=58a6ff&background=0d1117&ring=58a6ff&currStreakNum=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff&sideLabels=58a6ff&dates=58a6ff" /></a>
