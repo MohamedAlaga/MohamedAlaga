@@ -5,7 +5,6 @@
  Passionate about building innovative applications using cutting-edge technologies like ASP.NET Core, Flutter, Firebase, and Cloud Functions. Skilled in developing cross-platform solutions with MAUI.NET and WPF.NET.
 
 
-
 - 🔭 I’m currently working on **Building a feature-rich mobile messaging app with real-time functionality**
 
 - 🌱 I’m currently learning **Advanced Flutter development and Firebase integration**
