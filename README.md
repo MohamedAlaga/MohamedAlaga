@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **Open-source projects involving Flutter, Firebase, and Web APIs**
 
-- 🤝 I’m looking for help with **Scaling a Flutter-based chat application**
-
 - 💬 Ask me about **Flutter, ASP.NET Core, WPF, and Flutter**
 
 - 📫 How to reach me **Malaga.142014@gmail.com**
