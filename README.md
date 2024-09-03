@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Scaling a Flutter-based chat application**
 
-- 💬 Ask me about **Flutter, ASP.NET Core, WPF, and MAUI**
+- 💬 Ask me about **Flutter, ASP.NET Core, WPF, and Flutter**
 
 - 📫 How to reach me **Malaga.142014@gmail.com**
 
