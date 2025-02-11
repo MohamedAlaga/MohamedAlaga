@@ -6,13 +6,13 @@
 
 
 
-- 🔭 I’m currently working on **Building a feature-rich mobile messaging app with real-time functionality**
+- 🔭 I’m currently working on **Building a feature-rich e-commerce app**
 
-- 🌱 I’m currently learning **Advanced Flutter development and Firebase integration**
+- 🌱 I’m currently learning **Advanced Flutter development and and API Design**
 
 - 👯 I’m looking to collaborate on **Open-source projects involving Flutter, Firebase, and Web APIs**
 
-- 💬 Ask me about **Flutter, ASP.NET Core, WPF, and Flutter**
+- 💬 Ask me about **Flutter and ASP.NET Core**
 
 - 📫 How to reach me **Malaga.142014@gmail.com**
 
