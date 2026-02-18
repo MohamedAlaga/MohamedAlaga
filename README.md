@@ -1,31 +1,53 @@
-![MasterHead](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Mohamed Alaga</h1>
-<h3 align="center">A Full-Stack Developer dedicated to creating reliable, scalable, and intuitive software</h3>
+<h3 align="center">Full-Stack Software Engineer | Cross-Platform Development | Web & Mobile Systems</h3>
 
-Passionate about creating digital products that combine great user experiences with solid engineering. I enjoy transforming ideas into real-world solutions through clean design, reliable performance, and thoughtful architecture.
+Experienced in building **scalable web applications, cross-platform mobile apps, and cloud-integrated solutions**. Passionate about creating **reliable, maintainable, and performant software** that solves real-world problems.  
 
+---
 
+### 🔹 About Me
+- 🔭 Full-stack software engineer with experience in **Flutter, Django, ASP.NET Core, Supabase, Postgres, and AWS/Firebase integrations**.  
+- 🌱 Skilled in **clean architecture, modular design, API integration, and CI/CD pipelines**.  
+- 🤝 Experienced in **collaborating with cross-functional teams**, delivering high-quality projects, and improving system reliability.  
+- 💬 Open to discussions on **software architecture, system design, and best practices**.  
+- 📫 Reach me at: **mohamed.alaga.dev@gmail.com**  
 
-- 🔭 I’m passionate about exploring new ideas and building meaningful software that solves real problems.  
-- 🌱 Committed to continuous learning and writing clean, maintainable, and scalable code.  
-- 🤝 I enjoy collaborating on projects that inspire creativity and technical growth.  
-- 💬 Always open to discussions about software design, architecture, and best practices.  
-- 📫 You can reach me at **mohamed.alaga.dev@gmail.com**.
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-alaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed alaga" height="30" width="40" /></a>
-</p>
+### 💻 Technical Skills
 
+**Languages:** Dart, C#, C, C++, Python, JavaScript, TypeScript  
+**Frontend:** Flutter, HTML, CSS, Figma (UI/UX)  
+**Backend:** Django, ASP.NET Core, RESTful APIs, Supabase, SQL Server, MySQL, Postgres  
+**DevOps & Deployment:** Git, GitHub Actions, CI/CD pipelines, Codemagic, Vercel, Docker  
+**Cloud & Infrastructure:** Firebase, AWS (basic), Google Cloud (basic)  
+**Architecture & Practices:** Clean Architecture, MVVM, MVC, Automated Testing, SOLID  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a></p>
+---
 
 ### 🚀 Featured Projects
 
-<a href="https://github.com/MohamedAlaga/EnduraGenius">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedAlaga&repo=EnduraGenius&theme=transparent" />
-</a>
-<a href="https://github.com/MohamedAlaga/ALX_phase_one_project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedAlaga&repo=ALX_phase_one_project&theme=transparent" />
+**Trailer Hustle** | [App Store] · [Google Play]  
+Redesigning a platform for trailer owners and renters. Refactoring architecture and modules, optimizing performance, and implementing UI improvements. Collaboration with the team ensures maintainable, scalable code.  
+
+**TabOut Landing Page** | [App Store] · [Google Play]  
+Contributed to a cross-platform mobile MVP for restaurant bill splitting. Implemented friend management, digital wallets, QR code scanning, payment integration, and activity tracking. Ensured responsive UI and performance across devices.  
+
+**ClassEye** | [Project Link]  
+Developed a barcode-based student attendance system with Excel reporting. Optimized database design and workflows for accuracy and reliability. Collaborated to ensure maintainable, high-quality code.  
+
+**StudentAxis** | [Project Link]  
+Contributed to a student affairs management system with text-to-speech functionality. Implemented features for efficient record management and usability. Ensured responsive, maintainable web interfaces.  
+
+**Endura Genius** | [Project Link]  
+Built a centralized fitness platform with role-based authentication and dynamic workout plan generation. Optimized data workflows, implemented automated testing, and maintained reliable, scalable architecture.  
+
+**Rolax** | [Project Link]  
+Developed a web-based pharmacy management system with real-time data synchronization and role-based access. Automated inventory tracking, optimized performance, and enhanced operational efficiency.  
+
+---
+
+### 📈 GitHub Stats
+<a href="https://github.com/MohamedAlaga">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedAlaga&show_icons=true&theme=radical" />
 </a>
