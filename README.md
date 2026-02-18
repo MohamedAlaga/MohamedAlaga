@@ -27,27 +27,32 @@ Experienced in building **scalable web applications, cross-platform mobile apps,
 
 ### 🚀 Featured Projects
 
-**Trailer Hustle** | [App Store] · [Google Play]  
+**Trailer Hustle** | <a href="https://apps.apple.com/us/app/trailer-hustle/id6747658492">[App Store]</a> · <a href="[https://apps.apple.com/us/app/trailer-hustle/id6747658492](https://play.google.com/store/apps/details?id=com.app.trailerHustle)">[Google Play]  
 Redesigning a platform for trailer owners and renters. Refactoring architecture and modules, optimizing performance, and implementing UI improvements. Collaboration with the team ensures maintainable, scalable code.  
 
-**TabOut Landing Page** | [App Store] · [Google Play]  
+**TabOut** |<a href="https://www.tabout.org/">[Landing Page]</a>
 Contributed to a cross-platform mobile MVP for restaurant bill splitting. Implemented friend management, digital wallets, QR code scanning, payment integration, and activity tracking. Ensured responsive UI and performance across devices.  
 
-**ClassEye** | [Project Link]  
+**ClassEye** 
 Developed a barcode-based student attendance system with Excel reporting. Optimized database design and workflows for accuracy and reliability. Collaborated to ensure maintainable, high-quality code.  
 
-**StudentAxis** | [Project Link]  
+**StudentAxis**
 Contributed to a student affairs management system with text-to-speech functionality. Implemented features for efficient record management and usability. Ensured responsive, maintainable web interfaces.  
 
-**Endura Genius** | [Project Link]  
+**Endura Genius** | <a href="https://github.com/MohamedAlaga/EnduraGenius">[Project Link]</a>  
 Built a centralized fitness platform with role-based authentication and dynamic workout plan generation. Optimized data workflows, implemented automated testing, and maintained reliable, scalable architecture.  
 
-**Rolax** | [Project Link]  
+**Rolax** | <a href="https://github.com/MohamedAlaga/ALX_phase_one_project">[Project Link]</a>  
 Developed a web-based pharmacy management system with real-time data synchronization and role-based access. Automated inventory tracking, optimized performance, and enhanced operational efficiency.  
 
 ---
 
 ### 📈 GitHub Stats
+
 <a href="https://github.com/MohamedAlaga">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedAlaga&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedAlaga&show_icons=true&count_private=true&theme=radical" alt="Mohamed Alaga's GitHub Stats" />
+</a>
+
+<a href="https://github.com/MohamedAlaga?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAlaga&hide=html&layout=compact&theme=radical" alt="Top Languages" />
 </a>
