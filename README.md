@@ -27,10 +27,10 @@ Experienced in building **scalable web applications, cross-platform mobile apps,
 
 ### 🚀 Featured Projects
 
-**Trailer Hustle** | <a href="https://apps.apple.com/us/app/trailer-hustle/id6747658492">[App Store]</a> · <a href="[https://apps.apple.com/us/app/trailer-hustle/id6747658492](https://play.google.com/store/apps/details?id=com.app.trailerHustle)">[Google Play]  
+**Trailer Hustle** | <a href="https://apps.apple.com/us/app/trailer-hustle/id6747658492">[App Store]</a> · <a href="https://play.google.com/store/apps/details?id=com.app.trailerHustle">[Google Play]</a>
 Redesigning a platform for trailer owners and renters. Refactoring architecture and modules, optimizing performance, and implementing UI improvements. Collaboration with the team ensures maintainable, scalable code.  
 
-**TabOut** |<a href="https://www.tabout.org/">[Landing Page]</a>
+**TabOut** | <a href="https://www.tabout.org/">[Landing Page]</a>
 Contributed to a cross-platform mobile MVP for restaurant bill splitting. Implemented friend management, digital wallets, QR code scanning, payment integration, and activity tracking. Ensured responsive UI and performance across devices.  
 
 **ClassEye** 
