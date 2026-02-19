@@ -49,10 +49,10 @@ Developed a web-based pharmacy management system with real-time data synchroniza
 
 ### 📈 GitHub Stats
 
-<a href="https://github.com/MohamedAlaga">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedAlaga&show_icons=true&count_private=true&theme=radical" alt="Mohamed Alaga's GitHub Stats" />
+<a href="https://github.com/mohamedalaga">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedalaga&show_icons=true&count_private=true&theme=radical" alt="Mohamed Alaga's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MohamedAlaga?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAlaga&hide=html&layout=compact&theme=radical" alt="Top Languages" />
+<a href="https://github.com/mohamedalaga">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedalaga&layout=compact&theme=radical" alt="Top Languages" />
 </a>
