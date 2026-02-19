@@ -49,10 +49,26 @@ Developed a web-based pharmacy management system with real-time data synchroniza
 
 ### 📈 GitHub Stats
 
-<a href="https://github.com/mohamedalaga">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedalaga&show_icons=true&count_private=true&theme=radical" alt="Mohamed Alaga's GitHub Stats" />
-</a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=mohamedalaga&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=mohamedalaga&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedalaga&show_icons=true" alt="Mohamed Alaga's GitHub Stats" />
+</picture>
 
-<a href="https://github.com/mohamedalaga">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedalaga&layout=compact&theme=radical" alt="Top Languages" />
-</a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedalaga&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedalaga&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedalaga&layout=compact" alt="Top Languages" />
+</picture>
