@@ -33,10 +33,10 @@ Redesigning a platform for trailer owners and renters. Refactoring architecture 
 **TabOut** | <a href="https://www.tabout.org/">[Landing Page]</a>  
 Contributed to a cross-platform mobile MVP for restaurant bill splitting. Implemented friend management, digital wallets, QR code scanning, payment integration, and activity tracking. Ensured responsive UI and performance across devices.  
 
-**ClassEye** 
+**ClassEye**  
 Developed a barcode-based student attendance system with Excel reporting. Optimized database design and workflows for accuracy and reliability. Collaborated to ensure maintainable, high-quality code.  
 
-**StudentAxis**
+**StudentAxis**  
 Contributed to a student affairs management system with text-to-speech functionality. Implemented features for efficient record management and usability. Ensured responsive, maintainable web interfaces.  
 
 **Endura Genius** | <a href="https://github.com/MohamedAlaga/EnduraGenius">[Project Link]</a>  
